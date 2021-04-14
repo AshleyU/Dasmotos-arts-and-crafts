@@ -19,8 +19,16 @@ h3, p {
     background-color: mediumspringgreen;
 }
 
-.brush-price {
+.price {
     font-family: Helvetica;
     font-weight: bold;
     color: blue;
+}
+
+.frames-heading {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
 }
